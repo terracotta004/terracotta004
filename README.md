@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">🎹 I enjoy writing music.<br>✨ I am an agnostic theist. I seek to build relationships and connections between religion and non-religion.<br>🧑‍💻 I have a degree in software development from Messiah University — though I am always learning new things. Feel free to reach out, and let's work together!</p>
+<p align="left">🎹 I enjoy writing music.<br>✨ I am an agnostic theist. I seek to build relationships and connections between religion and non-religion.<br>🧑‍💻 I have a degree in software development from Messiah University — though I am always learning new things.</p>
+
+<p align="left">Feel free to reach out, and let's work together!</p>
 
 ###
 
@@ -10,6 +12,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
