@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">🎹 I enjoy writing music.<br>✨ I am an agnostic theist, and a liberal Christian. I believe in God but I don't know everything about him. I seek to build relationships and connections from many different backgrounds and perspectives.<br>🧑‍💻 I have a degree in software development from Messiah University — though I am always learning new things.</p>
-
-<p align="left">Proverbs 3:5-6 (ESV) ⁵Trust in the Lord with all your heart, and do not lean on your own understanding. ⁶In all your ways acknowledge him, and he will make straight your paths.</p>
-
 <p align="left">Feel free to reach out, and let's work together!</p>
 
 ###
